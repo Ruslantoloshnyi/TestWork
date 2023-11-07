@@ -1,0 +1,14 @@
+2023-11-06T12:26:52+00:00 CRITICAL Cannot redeclare update_product_fields() (previously declared in C:\OpenServer\domains\TestWork\wp-content\themes\TestWork\functions.php:131) in C:\OpenServer\domains\TestWork\wp-content\themes\TestWork\functions.php on line 147
+
+2023-11-06T12:27:02+00:00 CRITICAL Cannot redeclare update_product_fields() (previously declared in C:\OpenServer\domains\TestWork\wp-content\themes\TestWork\functions.php:131) in C:\OpenServer\domains\TestWork\wp-content\themes\TestWork\functions.php on line 147
+
+2023-11-06T12:27:05+00:00 CRITICAL Cannot redeclare update_product_fields() (previously declared in C:\OpenServer\domains\TestWork\wp-content\themes\TestWork\functions.php:131) in C:\OpenServer\domains\TestWork\wp-content\themes\TestWork\functions.php on line 147
+
+2023-11-06T16:35:30+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='.') in C:\OpenServer\domains\TestWork\wp-content\themes\TestWork\functions.php on line 29
+
+2023-11-06T16:35:33+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='.') in C:\OpenServer\domains\TestWork\wp-content\themes\TestWork\functions.php on line 29
+
+2023-11-06T16:38:34+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='.') in C:\OpenServer\domains\TestWork\wp-content\themes\TestWork\functions.php on line 29
+
+2023-11-06T16:38:37+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='.') in C:\OpenServer\domains\TestWork\wp-content\themes\TestWork\functions.php on line 29
+
